@@ -141,44 +141,44 @@ Authorization: Bearer <token>
 | POST | `/api/nutrition` | Yes | Create/update today's nutrition totals | Body supports: `mealType`, `calories`, `protein`, `carbs`, `fats`, `notes` |
 | GET | `/api/nutrition` | Yes | Get recent nutrition logs | Query: `limit` (1-90, default 30) |
 
-## 🖼️ Screenshots and GIFs (Major Pages)
+<!-- ## 🖼️ Screenshots and GIFs (Major Pages)
 
 Replace the placeholder URLs below with your real screenshots/GIFs.
 
 ### 📊 Dashboard Page
 
 ![Dashboard Screenshot](https://placehold.co/1200x700?text=Dashboard+Screenshot)
-![Dashboard GIF](https://placehold.co/1200x700?text=Dashboard+Demo+GIF)
+
 
 ### 📅 Today Page
 
 ![Today Screenshot](https://placehold.co/1200x700?text=Today+Screenshot)
-![Today GIF](https://placehold.co/1200x700?text=Today+Demo+GIF)
+
 
 ### 📈 Progress Page
 
 ![Progress Screenshot](https://placehold.co/1200x700?text=Progress+Screenshot)
-![Progress GIF](https://placehold.co/1200x700?text=Progress+Demo+GIF)
+
 
 ### 🧠 Chat Page
 
 ![Chat Screenshot](https://placehold.co/1200x700?text=Chat+Screenshot)
-![Chat GIF](https://placehold.co/1200x700?text=Chat+Demo+GIF)
+
 
 ### 👤 Profile Page
 
 ![Profile Screenshot](https://placehold.co/1200x700?text=Profile+Screenshot)
-![Profile GIF](https://placehold.co/1200x700?text=Profile+Demo+GIF)
+
 
 ### 🔐 Login Page
 
 ![Login Screenshot](https://placehold.co/1200x700?text=Login+Screenshot)
-![Login GIF](https://placehold.co/1200x700?text=Login+Demo+GIF)
+
 
 ### 📝 Register Page
 
-![Register Screenshot](https://placehold.co/1200x700?text=Register+Screenshot)
-![Register GIF](https://placehold.co/1200x700?text=Register+Demo+GIF)
+![Register Screenshot](https://placehold.co/1200x700?text=Register+Screenshot) -->
+
 
 ## 📦 package.json (Backend)
 
